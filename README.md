@@ -1,4 +1,4 @@
-# SidewaysWorldChallenge
+# Sideways World Challenge
 
 The world download for my Minecraft PC [Sideways World Challenge video series](https://www.youtube.com/playlist?list=PLb5f0M4WXZjzv8tGZnNqqNbpPRvF7LnJR).
 
