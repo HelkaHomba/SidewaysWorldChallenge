@@ -1,6 +1,6 @@
 SIDEWAYS WORLD CHALLENGE
 
-The world download for my Minecraft PC Sideways World Challenge video series - https://www.youtube.com/playlist?list=PLb5f0M4WXZjzv8tGZnNqqNbpPRvF7LnJR
+The world download for my Minecraft PC Sideways World Challenge video series: https://www.youtube.com/playlist?list=PLb5f0M4WXZjzv8tGZnNqqNbpPRvF7LnJR
 
 To use it, download this repository and copy the "Sideways World" folder to your Minecraft saves folder.
 
